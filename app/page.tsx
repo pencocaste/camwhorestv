@@ -6,10 +6,10 @@ import { HomeDescription } from '@/components/HomeDescription';
 import { BottomDescription } from '@/components/BottomDescription';
 
 export const metadata: Metadata = {
-  title: 'Chaturbate.Lat ❤️ Free Live Sex Cams & Adult Sex Chat',
-  description: 'Watch Chaturbate Live Sex Cams Shows in our Adult Sex Chat Community⭐ Start chatting with Camgirls! +5000 Live Porn Webcams. FREE without Registration',
+  title: 'CamWhoresTV.porn ❤️ Free Live Sex Cams & Adult Sex Chat',
+  description: 'Watch Live Sex Cams Shows in our Adult Sex Chat Community⭐ Start chatting with Camwhores! +5000 Live Porn Webcams. FREE without Registration',
   alternates: {
-    canonical: 'https://chaturbate.lat/',
+    canonical: 'https://camwhorestv.porn/',
   },
 };
 
