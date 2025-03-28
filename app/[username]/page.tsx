@@ -9,7 +9,7 @@ export const dynamic = 'force-dynamic';
 // Generar metadatos dinámicos basados en el modelo
 export async function generateMetadata({ params }: { params: { username: string } }): Promise<Metadata> {
   return {
-    title: `${params.username} Live Sex Cam on CamWhoresTV.porn/ ❤️`,
+    title: `${params.username} Live Sex Cam on CamWhoresTV.porn ❤️`,
     description: `Watch ${params.username}'s Live Sex Cam Show on CamWhores TV. ⭐ Join Now for Free and Chat with ${params.username}!`,
     alternates: {
       canonical: `https://camwhorestv.porn/${params.username}/`,
