@@ -1,151 +1,9 @@
-# Chaturbate.Lat Robots.txt
-# https://chaturbate.lat
+# Gay Chaturbate Robots.txt
+# https://live.camgay4.com/
 
 # Permitir a todos los robots
 User-agent: *
-
-# Permitir acceso a las páginas principales
 Allow: /
-Allow: /sitemap.xml
-
-# Secciones principales
-Allow: /female/
-Allow: /couples/
-Allow: /men/
-Allow: /trans/
-
-# Categorías de Female
-Allow: /female/teen/
-Allow: /female/young/
-Allow: /female/milf/
-Allow: /female/mature/
-Allow: /female/asian/
-Allow: /female/ebony/
-Allow: /female/indian/
-Allow: /female/latina/
-Allow: /female/blonde/
-Allow: /female/brunette/
-Allow: /female/redhead/
-Allow: /female/squirt/
-Allow: /female/bigboobs/
-Allow: /female/pregnant/
-Allow: /female/deepthroat/
-Allow: /female/hairy/
-Allow: /female/milk/
-Allow: /female/bush/
-Allow: /female/muscle/
-Allow: /female/hairyarmpits/
-
-# Regiones de Female
-Allow: /female/north-american-cams/
-Allow: /female/south-american-cams/
-Allow: /female/asian-cams/
-Allow: /female/euro-russian-cams/
-
-# Categorías de Couples
-Allow: /couples/anal/
-Allow: /couples/asian/
-Allow: /couples/bbc/
-Allow: /couples/bbw/
-Allow: /couples/blonde/
-Allow: /couples/blowjob/
-Allow: /couples/creampie/
-Allow: /couples/cum/
-Allow: /couples/ebony/
-Allow: /couples/fuck/
-Allow: /couples/hairy/
-Allow: /couples/indian/
-Allow: /couples/latina/
-Allow: /couples/lesbian/
-Allow: /couples/mature/
-Allow: /couples/milf/
-Allow: /couples/milk/
-Allow: /couples/pregnant/
-Allow: /couples/redhead/
-Allow: /couples/squirt/
-Allow: /couples/tattoo/
-Allow: /couples/teen/
-Allow: /couples/threesome/
-Allow: /couples/young/
-
-# Regiones de Couples
-Allow: /couples/north-american-cams/
-Allow: /couples/south-american-cams/
-Allow: /couples/asian-cams/
-Allow: /couples/euro-russian-cams/
-
-# Categorías de Men
-Allow: /men/teen/
-Allow: /men/young/
-Allow: /men/daddy/
-Allow: /men/mature/
-Allow: /men/asian/
-Allow: /men/ebony/
-Allow: /men/indian/
-Allow: /men/latino/
-Allow: /men/skinny/
-Allow: /men/muscle/
-Allow: /men/chubby/
-Allow: /men/gay/
-Allow: /men/anal/
-Allow: /men/black/
-Allow: /men/lovense/
-Allow: /men/feet/
-Allow: /men/bigass/
-Allow: /men/straight/
-Allow: /men/exhibitionist/
-Allow: /men/bbc/
-Allow: /men/smoke/
-Allow: /men/slave/
-Allow: /men/married/
-Allow: /men/hairy/
-Allow: /men/ginger/
-Allow: /men/selfsuck/
-Allow: /men/italian/
-Allow: /men/turkish/
-
-# Regiones de Men
-Allow: /men/north-american-cams/
-Allow: /men/south-american-cams/
-Allow: /men/asian-cams/
-Allow: /men/euro-russian-cams/
-
-# Categorías de Trans
-Allow: /trans/anal/
-Allow: /trans/asian/
-Allow: /trans/bbw/
-Allow: /trans/bigass/
-Allow: /trans/bigboobs/
-Allow: /trans/bigcock/
-Allow: /trans/blonde/
-Allow: /trans/blowjob/
-Allow: /trans/chubby/
-Allow: /trans/couple/
-Allow: /trans/cum/
-Allow: /trans/ebony/
-Allow: /trans/femboy/
-Allow: /trans/feet/
-Allow: /trans/ftm/
-Allow: /trans/fuckmachine/
-Allow: /trans/latina/
-Allow: /trans/lovense/
-Allow: /trans/mature/
-Allow: /trans/muscle/
-Allow: /trans/pantyhose/
-Allow: /trans/petite/
-Allow: /trans/selfsuck/
-Allow: /trans/sissy/
-Allow: /trans/skinny/
-Allow: /trans/smallcock/
-Allow: /trans/teen/
-Allow: /trans/uncut/
-Allow: /trans/young/
-
-# Regiones de Trans
-Allow: /trans/north-american-cams/
-Allow: /trans/south-american-cams/
-Allow: /trans/asian-cams/
-Allow: /trans/euro-russian-cams/
 
 # Bloquear rutas privadas y administrativas
 Disallow: /api/
@@ -158,16 +16,10 @@ Disallow: /profile/
 Disallow: /_next/
 Disallow: /static/
 
-# Bloquear parámetros de búsqueda y fragmentos
-Disallow: /*?*
-Disallow: /*#*
-
 # Bloquear archivos específicos
 Disallow: /*.json$
-Disallow: /*.xml$
-Disallow: /*.txt$
 Disallow: /README.md$
 Disallow: /LICENSE$
 
 # Sitemap
-Sitemap: https://chaturbate.lat/sitemap.xml
+Sitemap: https://camwhorestv.porn//sitemap.xml
